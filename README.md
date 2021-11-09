@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="ondeto" title="busca-musica" src=".github/logo.png" width="220px" />
+  <img alt="busca-musica" title="busca-musica" src=".github/logo.png" width="220px" />
 </h1>
 
 <p align="center">
@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".github/img-busca-letras.PNG" width="100%">
+  <img alt="busca-musica" src=".github/img-busca-letras.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
